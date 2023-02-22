@@ -49,7 +49,7 @@ main {
   height: 100px;
 }
 .bottom-img{
-  background-image: url(./images/bg-pattern-bottom.svg);
+  /* background-image: url(./images/bg-pattern-bottom.svg); */
   position: absolute;
   bottom: 0;
   left: 0;
